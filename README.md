@@ -31,6 +31,7 @@ The final prototype takes most of the heavy components placed on side of the cla
 <br/>
 <br/>
 <br/>
-![](https://github.com/GrantPau/APSC-101-Claw/blob/main/Drawings%2C%20Schematics%2C%20CAD%20Models/third-angle-projection-of-final-design.jpg)
+
+![](https://github.com/GrantPau/APSC-101-Claw/blob/main/Drawings%2C%20Schematics%2C%20CAD%20Models/third-angle-projection-of-final-design.PNG)
 <p align="center">Figure 5: Third Angle Projection of Final Design<p align="center">
 

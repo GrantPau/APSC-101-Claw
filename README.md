@@ -1,6 +1,6 @@
 # APSC 101 Claw
 
-##Purpose
+## Purpose
 
 An autonomous claw that picks up objects and releases them at different locations. Using an Arduino, the goal is to construct a device that grabs household items quickly and safely place them at their destination within the time limit. This collaborative project was developed by all the members in Team F8.
 

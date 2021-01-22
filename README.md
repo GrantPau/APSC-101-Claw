@@ -14,6 +14,6 @@ A program is written in Arduino IDE that reads the distance from an ultrasonic s
 ## Design
 The final prototype takes most of the heavy components placed on side of the claw and minimal mass on the other end. By connecting the lighter end to the rotating shaft of the motor, the overall torque ensures that only the lighter end is able to rotate, giving the operational task to collect or release objects. The heavier mass on the other side of the claw prevents this side from moving which allows for more control and grip when grabbing items. Material-wise, the claw is constructed out of sheet metal. These pieces were bent and connected using hand tools in order to achieve the shape of the final design. More drawings, schematics, and models are available here.
 
-![https://github.com/GrantPau/APSC-101-Claw/blob/main/Drawings%2C%20Schematics%2C%20CAD%20Models/third-angle-projection-of-final-design.jpg]
+![](https://github.com/GrantPau/APSC-101-Claw/blob/main/Drawings%2C%20Schematics%2C%20CAD%20Models/third-angle-projection-of-final-design.jpg)
 
 ![](https://github.com/GrantPau/APSC-101-Claw/blob/main/Drawings%2C%20Schematics%2C%20CAD%20Models/GIFs%20for%20ReadMe/virtual-prototype.gif)

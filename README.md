@@ -4,6 +4,10 @@ An autonomous claw that picks up objects and releases them at different location
 
 ![](https://github.com/GrantPau/APSC-101-Claw/blob/main/Drawings%2C%20Schematics%2C%20CAD%20Models/final-design.PNG)
 
+<p align="center">
+  <img src="https://github.com/GrantPau/APSC-101-Claw/blob/main/Drawings%2C%20Schematics%2C%20CAD%20Models/final-design.PNG"/>
+</p>
+
 ## How it Works
 A program is written in Arduino IDE that reads the distance from an ultrasonic sensor. When it reaches a certain distance between the claw and the object or ground, it tells a servo motor to rotate, allowing the claw to open or close. The device is powered by a power bank which is also mounted on the claw. The Arduino code is available here.
 

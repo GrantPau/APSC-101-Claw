@@ -2,8 +2,6 @@
 
 An autonomous claw that picks up objects and releases them at different locations. Using an Arduino, the goal is to construct a device that grabs household items quickly and safely place them at their destination within the time limit. This collaborative project was developed by all the members in Team F8.
 
-![](https://github.com/GrantPau/APSC-101-Claw/blob/main/Drawings%2C%20Schematics%2C%20CAD%20Models/final-design.PNG)
-
 <p align="center">
   <img src="https://github.com/GrantPau/APSC-101-Claw/blob/main/Drawings%2C%20Schematics%2C%20CAD%20Models/final-design.PNG"/>
 </p>

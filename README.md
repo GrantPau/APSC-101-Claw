@@ -13,9 +13,9 @@ A program is written in Arduino IDE that reads the distance from an ultrasonic s
 
 ![](https://github.com/GrantPau/APSC-101-Claw/blob/main/Drawings%2C%20Schematics%2C%20CAD%20Models/GIFs%20for%20ReadMe/grabbing-test.gif)
 <p align="center">Figure 2: Grabbing Test<p align="center">
-
-
-
+<br/>
+<br/>
+<br/>
 <p align="center">
   <img src="https://github.com/GrantPau/APSC-101-Claw/blob/main/Drawings%2C%20Schematics%2C%20CAD%20Models/circuit-schematic.PNG"/>
 </p>
@@ -28,9 +28,9 @@ The final prototype takes most of the heavy components placed on side of the cla
 
 ![](https://github.com/GrantPau/APSC-101-Claw/blob/main/Drawings%2C%20Schematics%2C%20CAD%20Models/GIFs%20for%20ReadMe/virtual-prototype.gif)
 <p align="center">Figure 4: Virtual Prototype Animation<p align="center">
-
-
-
+<br/>
+<br/>
+<br/>
 ![](https://github.com/GrantPau/APSC-101-Claw/blob/main/Drawings%2C%20Schematics%2C%20CAD%20Models/third-angle-projection-of-final-design.jpg)
 <p align="center">Figure 5: Third Angle Projection of Final Design<p align="center">
 
